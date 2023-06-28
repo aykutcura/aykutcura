@@ -1,5 +1,20 @@
-### Hello World!👋
+# Hi There👋
+## An enthusiastic and hardworking data analyst who is willing to contribute great effort to his team.
 
-Detail-focused Data Analyst with knowledge in data warehousing, process validation and business needs analysis. Proven to understand customer requirements and translate into actionable project plans. Dedicated and hard-working with passion for Big Data. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. 
+I’m currently working as a Data administrator in a drapery company.  
 
+🌱 I’m currently learning **Python & R**
 
+👯 I’m looking to collaborate on **Business Intelligence Projects**
+
+🤝 I'm looking for a role in either **Business, Marketing & Data Science**
+
+Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel! 
+
+💬 Ask me about: **MySQL,PowerBI,Tableau,Excel**
+
+📫 How to reach me <curaykut@gmail.com>
+
+📄 Know about my experiences **[Check this link](https://www.linkedin.com/in/aykut-cura-9292b91a7/)**
+
+🙅 Fun fact: Less than 0.5% of all data we create is ever analyzed and used.
