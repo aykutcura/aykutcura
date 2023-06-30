@@ -13,7 +13,7 @@ Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel!
 
 💬 Ask me about: **MySQL,PowerBI,Tableau,Excel**
 
-📫 How to reach me <curaykut@gmail.com>
+📫 How to reach me <curaykut@gmail.com> , feel free to ask my resume.
 
 📄 Know about my experiences **[Check this link](https://www.linkedin.com/in/aykut-cura-9292b91a7/)**
 
